@@ -1,0 +1,24 @@
+.header-image {
+  background-image: url("https://images.unsplash.com/photo-1520961536084-445e75e10ee0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: calc(50vh);
+}
+.title{
+  margin-top: 30px;
+  padding-left: 150px;
+  /* background-color: aqua; */
+
+}
+.skills{
+  clear: both;
+  float: right;
+  width: 440px;
+  /* background-color: red; */
+  margin-right: 200px;
+}
+.decrition{
+  margin-top: 20px;
+
+}

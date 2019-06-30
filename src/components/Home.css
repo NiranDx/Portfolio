@@ -1,0 +1,29 @@
+.Info {
+  background-image: url("https://images.unsplash.com/photo-1510519138101-570d1dca3d66?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1331&q=80");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: calc(100vh);
+} 
+.Greeting{
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.buttomContact {
+  width: 120px;
+  height: 40px;
+  background-color: gold;
+  border-radius: 12px;
+ 
+}
+.buttomContact a {
+  color: white;
+}
+.buttomContact a:hover {
+  color: red;
+  text-decoration: none;
+}
