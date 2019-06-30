@@ -16,14 +16,14 @@
 }
 .Menu li a:hover {
   color: gold;
-  text-decoration:none;
+  text-decoration: none;
 }
 .Logo a {
   color: #fff;
 }
 .Logo a:hover{
   color: red;
-  text-decoration:none;
+  text-decoration: none;
 }
 .div1{
   width: 200px;

@@ -10,10 +10,10 @@ export default class Home extends Component {
         <div className="Info">
           <div className="container">
             <div className="Greeting">
-              <h1>I'm Niran Sasooloh</h1>
+              <strong><h1>I'm Niran Sasooloh</h1></strong>
               <p>Computer Engineering<span> | </span> PSU Phuket</p>
-              <p>เว็บบนี้เป็นทดสอบโดยใช้ React</p>
-              <button className="buttomContact"><a href="/contact" >Contact Me</a></button>
+              <p>เว็บนี้เป็นเว็บทดทองเขียนโดยใช้ React และ CSS <br></br>ยังไม่เป็นเว็บที่ Responsive ยังไม่ได้ทำเกี่ยวกับระบบทำงาน</p>
+              <Link to="/about"><button className="buttomContact" >ABOUT ME</button></Link>
             </div>
           </div>
         </div>

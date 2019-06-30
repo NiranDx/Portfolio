@@ -29,15 +29,31 @@
     text-align: center;
     padding: 20px;
 }*/
+.background{
+    background-color: rgba(134, 134, 134, 0.493);
+    height: calc(50vh);
+}
+.contact{
+    padding-top: 20px;
+    text-align: center;
+}
 .d-flex{
     text-align: center;
     
 }
 .col-md-3{
-    background-color: aqua;
+    background-color: none;
     flex-direction: column;
+    margin-top: 40px;
+    padding-bottom: 20px;    
 }
 
-
+.fbContact{
+    color: black;
+}
+.fbContact:hover{
+    text-decoration: none;
+    color: black;
+}
 
        

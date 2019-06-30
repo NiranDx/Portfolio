@@ -12,13 +12,20 @@
 
 }
 .skills{
-  clear: both;
   float: right;
   width: 440px;
   /* background-color: red; */
   margin-right: 200px;
 }
 .decrition{
-  margin-top: 20px;
+  margin: 0;
+  padding-top: 50px;
 
+}
+.headertitle{
+  text-align: center;
+  padding-top: 25px;
+}
+.padding{
+  margin: 20px 0 0 20px;
 }
