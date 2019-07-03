@@ -8,7 +8,7 @@ export default class Home extends Component {
     return (
       <div>
         <div className="Info">
-          <div className="container">
+          {/* <div className="container"> */}
             <div className="Greeting">
               <strong><h1>I'm Niran Sasooloh</h1></strong>
               <p>Computer Engineering<span> | </span> PSU Phuket</p>
@@ -17,7 +17,7 @@ export default class Home extends Component {
             </div>
           </div>
         </div>
-      </div>
+      // </div>
     )
   }
 }
